@@ -1,0 +1,15 @@
+<style>
+    body {
+        background: #9c88ff;
+    }
+
+    .navbar.is-purple {
+        background: #8c7ae6;
+    }
+
+    .navbar .button {
+        border-color: #9c88ff;
+        background: #9c88ff;
+        color: #fff;
+    }
+</style>
